@@ -1,2 +1,0 @@
-source /home/usuarioso/sed/esp-workspace/esp32c3_uart/build/bootloader/gdbinit/symbols
-source /home/usuarioso/sed/esp-workspace/esp32c3_uart/build/bootloader/gdbinit/connect
