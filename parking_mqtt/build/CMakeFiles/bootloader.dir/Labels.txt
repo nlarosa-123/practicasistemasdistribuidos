@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/usuarioso/sed/esp-workspace/parking_mqtt/build/CMakeFiles/bootloader
+/home/usuarioso/sed/esp-workspace/parking_mqtt/build/CMakeFiles/bootloader.rule
+/home/usuarioso/sed/esp-workspace/parking_mqtt/build/CMakeFiles/bootloader-complete.rule
+/home/usuarioso/sed/esp-workspace/parking_mqtt/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/home/usuarioso/sed/esp-workspace/parking_mqtt/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/usuarioso/sed/esp-workspace/parking_mqtt/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/usuarioso/sed/esp-workspace/parking_mqtt/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/usuarioso/sed/esp-workspace/parking_mqtt/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/usuarioso/sed/esp-workspace/parking_mqtt/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/usuarioso/sed/esp-workspace/parking_mqtt/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

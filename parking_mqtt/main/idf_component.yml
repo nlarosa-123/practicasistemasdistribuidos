@@ -1,0 +1,4 @@
+dependencies:
+  espressif/led_strip: ^3.0.0
+  esp-idf-lib/si7021: '*'
+  esp-idf-lib/i2cdev: '*'

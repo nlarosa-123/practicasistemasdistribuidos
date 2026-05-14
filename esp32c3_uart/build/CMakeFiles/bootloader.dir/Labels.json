@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/usuarioso/sed/esp-workspace/esp32c3_uart/build/CMakeFiles/bootloader"
+		},
+		{
+			"file" : "/home/usuarioso/sed/esp-workspace/esp32c3_uart/build/CMakeFiles/bootloader.rule"
+		},
+		{
+			"file" : "/home/usuarioso/sed/esp-workspace/esp32c3_uart/build/CMakeFiles/bootloader-complete.rule"
+		},
+		{
+			"file" : "/home/usuarioso/sed/esp-workspace/esp32c3_uart/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+		},
+		{
+			"file" : "/home/usuarioso/sed/esp-workspace/esp32c3_uart/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+		},
+		{
+			"file" : "/home/usuarioso/sed/esp-workspace/esp32c3_uart/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+		},
+		{
+			"file" : "/home/usuarioso/sed/esp-workspace/esp32c3_uart/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+		},
+		{
+			"file" : "/home/usuarioso/sed/esp-workspace/esp32c3_uart/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+		},
+		{
+			"file" : "/home/usuarioso/sed/esp-workspace/esp32c3_uart/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+		},
+		{
+			"file" : "/home/usuarioso/sed/esp-workspace/esp32c3_uart/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bootloader"
+		],
+		"name" : "bootloader"
+	}
+}
