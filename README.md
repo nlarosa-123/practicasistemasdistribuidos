@@ -139,6 +139,35 @@ Esto permite:
 * Procesamiento desacoplado.
 * Comunicación eficiente entre módulos.
 
+## Elementos visuales implementados
+## Gauges (indicadores)
+
+Se utilizan indicadores tipo gauge para mostrar:
+
+La temperatura actual medida por el sensor Si7021.
+La distancia detectada por cada sensor ultrasónico HC-SR04.
+
+Esto permite conocer rápidamente el estado de cada plaza y las condiciones ambientales.
+
+## Gráficas en tiempo real
+
+El sistema incorpora gráficas dinámicas que muestran la evolución temporal de:
+
+Temperatura.
+Humedad.
+Distancias medidas por los sensores.
+
+Gracias a estas gráficas es posible observar cambios y tendencias en tiempo real.
+
+## Mensajes y notificaciones
+
+La interfaz también genera mensajes automáticos según el estado del sistema:
+
+Si la temperatura supera el umbral configurado, se muestra un aviso indicando que la temperatura es demasiado alta.
+Si una plaza está libre, el sistema lo indica visualmente.
+Si una plaza está ocupada, también se notifica.
+Si ocurre un error en la lectura de un sensor ultrasónico, se muestra un mensaje de error indicando el fallo de lectura.
+
 ---
 
 # Objetivo del proyecto
