@@ -259,4 +259,9 @@ idf.py build
 
 idf.py -p /dev/ttyUSB0 flash monitor
 
+# enlace público al vídeo demostrativo
+
+https://www.youtube.com/watch?v=3L9TYAThWwk
+
+
 
