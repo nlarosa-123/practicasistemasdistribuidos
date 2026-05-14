@@ -140,7 +140,7 @@ Esto permite:
 * Comunicación eficiente entre módulos.
 
 ## Elementos visuales implementados
-## Gauges (indicadores)
+### Gauges (indicadores)
 
 Se utilizan indicadores tipo gauge para mostrar:
 
@@ -149,7 +149,7 @@ La distancia detectada por cada sensor ultrasónico HC-SR04.
 
 Esto permite conocer rápidamente el estado de cada plaza y las condiciones ambientales.
 
-## Gráficas en tiempo real
+### Gráficas en tiempo real
 
 El sistema incorpora gráficas dinámicas que muestran la evolución temporal de:
 
@@ -159,7 +159,7 @@ Distancias medidas por los sensores.
 
 Gracias a estas gráficas es posible observar cambios y tendencias en tiempo real.
 
-## Mensajes y notificaciones
+### Mensajes y notificaciones
 
 La interfaz también genera mensajes automáticos según el estado del sistema:
 
